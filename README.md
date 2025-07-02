@@ -7,11 +7,11 @@ This dataset compiles and refines **400 before-and-after image pairs** of urban 
 ## 📁 Dataset Structure
 ```text
 BeforeAfterStreetscape/
-├── 1_Original Images/ # Screenshots from original tweets
-├── 2_Separate Images without Watermark/ # Cropped and cleaned 'before/after' images
-├── 3_Images without Trees/ # Tree-removed images for clear façade analysis
-├── 4_3M VAS Results/ # Visual attention predictions via 3M VAS
-└── Calculation/ # Metadata, scripts, and visual analysis
+├── 1_Original images/ # Screenshots from original tweets
+├── 2_Separate images without watermark/ # Cropped and cleaned 'before/after' images
+├── 3_Images without trees/ # Tree-removed images for clear façade analysis
+├── 4_3M VAS results/ # Visual attention predictions via 3M VAS
+└── 5_Analysis based on living structure theory/ # Metadata, scripts, and visual analysis
 ```
 
 
