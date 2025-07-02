@@ -10,8 +10,7 @@ BeforeAfterStreetscape/
 ├── 1_Original images/ # Screenshots from original tweets
 ├── 2_Separate images without watermark/ # Cropped and cleaned 'before/after' images
 ├── 3_Images without trees/ # Tree-removed images for clear façade analysis
-├── 4_3M VAS results/ # Visual attention predictions via 3M VAS
-└── 5_Analysis based on living structure theory/ # Metadata, scripts, and visual analysis
+└── 4_3M VAS results/ # Visual attention predictions via 3M VAS
 ```
 
 
